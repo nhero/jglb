@@ -395,3 +395,14 @@ nav a:hover {
         page-break-after: avoid;
     }
 }
+
+#bio-image {
+  float: left;
+  width: 300px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+
+.reviewer {
+  padding: 10px 0 10px 10px;
+}
